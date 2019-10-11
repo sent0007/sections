@@ -1,0 +1,28 @@
+html {
+  box-sizing: border-box;
+  background-color: #eee9de;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-family: "Lato", sans-serif;
+}
+
+p {
+  font-family: "Lato", sans-serif;
+  font-style: normal;
+}
+
+a {
+  font-family: "Lato", sans-serif;
+  font-style: normal;
+  text-decoration: none;
+  color: #333;
+  border-radius: 4px;
+  display: inline-block;
+  border-color: #333;
+  background-color: #eee9de;
+}
