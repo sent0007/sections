@@ -7,29 +7,44 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
-img {
-  min-width: 320px;
+.box1 {
+  display: inline-block;
+  max-width: 25em;
+
+}
+
+.box2 {
+  display: inline-block;
 }
 h2 {
   font-family: Lato, sans-serif;
 }
 
 p {
+  display: inline-block;
   font-family: Lato, sans-serif;
   color: #333;
   font-style: normal;
   text-align: left;
+  max-width: 25em;
 }
 
-a {
+.btn {
   font-family: Lato, sans-serif;
   font-style: normal;
   text-decoration: none;
   color: #333;
   border-radius: 6px;
-  border-color: #333;
-  border-style: solid;
-  border-width: medium;
+  border: 3px solid #333;
   background-color: #eee9de;
   padding: .5em .75em;
+}
+
+
+
+.btn:hover {
+  background-color: #666;
+  color: #fff;
+  border-radius: 6px;
+
 }
