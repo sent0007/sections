@@ -7,10 +7,14 @@ html {
   box-sizing: inherit;
 }
 
+body{
+  vertical-align: middle;
+  }
+
 section {
   text-align: center;
   margin-top: 1.5rem;
-  padding: 1em .4em 1em .4em;
+  padding: 1em .4em;
 }
 
 .box1 {
@@ -27,7 +31,6 @@ img {
   max-width: 25em;
   display: inline-block;
   text-align: left;
-  vertical-align: top;
 }
 
 h2 {
