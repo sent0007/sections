@@ -8,13 +8,13 @@ html {
 }
 
 body {
+
   margin: 0;
   vertical-align: middle;
   padding: 2em 1em;
 }
 
 section {
-
   text-align: center;
   padding-bottom: 2em;
 }
@@ -23,14 +23,12 @@ section {
   display: inline-block;
   max-width: 25em;
   padding-bottom: 2em;
-  padding-right: 1em;
 }
 
 img {
   display: block;
   width: 100%;
   padding-top: 1em;
-
 }
 
 .box2 {
@@ -38,7 +36,6 @@ img {
   display: inline-block;
   text-align: left;
   vertical-align: top;
-
 }
 
 h2 {
