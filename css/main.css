@@ -7,10 +7,10 @@ html {
   box-sizing: inherit;
 }
 
-body{
-  margin: 0 auto;
+body {
+  margin: 1.5rem ;
   vertical-align: middle;
-  }
+}
 
 section {
   text-align: center;
@@ -32,6 +32,7 @@ img {
   max-width: 25em;
   display: inline-block;
   text-align: left;
+
 }
 
 h2 {
