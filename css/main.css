@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  margin: auto;
+  margin: 0;
   vertical-align: middle;
 }
 
@@ -21,11 +21,11 @@ section {
 .box1 {
   display: inline-block;
   max-width: 25em;
-  margin-right: 1.5rem;
+  padding-bottom: 2em;
+  padding-right:2em;
 }
 
 img {
-  display: block;
   width: 100%;
 }
 
@@ -38,6 +38,7 @@ img {
 h2 {
   font-family: Lato, sans-serif;
   margin: 0 auto;
+  padding-bottom: .4em;
 }
 
 p {
@@ -46,6 +47,7 @@ p {
   color: #333;
   font-style: normal;
   line-height: 1.5rem;
+  padding-bottom: .4em;
 }
 
 .btn {
