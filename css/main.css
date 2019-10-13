@@ -8,19 +8,20 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: auto;
   vertical-align: middle;
 }
 
 section {
   text-align: center;
   margin-top: 1.5rem;
-  padding: 1em .4em;
+  padding: 1em .75em;
 }
 
 .box1 {
   display: inline-block;
   max-width: 25em;
+  margin-right: 1.5rem;
 }
 
 img {
