@@ -10,13 +10,14 @@ html {
 body {
 
   margin: 0;
-  vertical-align: middle;
-  padding: 2em 1em;
+
 }
 
 section {
   text-align: center;
   padding-bottom: 2em;
+  vertical-align: middle;
+  padding: 2em 1em;
 }
 
 .box1 {
@@ -36,6 +37,8 @@ img {
   display: inline-block;
   text-align: left;
   vertical-align: top;
+  margin-right: 1.5em;
+  margin-left: 1.5em;
 }
 
 h2 {
