@@ -13,30 +13,35 @@ body {
 
 section {
   text-align: center;
-  padding-bottom: 2em;
   vertical-align: middle;
-  padding: 2em 1em;
+  margin: 0;
 }
 
 .box1 {
   display: inline-block;
   max-width: 25em;
-  padding-bottom: 2em;
+  margin-top: 1.5rem;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 1.5em;
 }
 
 img {
   display: block;
   width: 100%;
-  padding-top: 1em;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .box2 {
   max-width: 25em;
   display: inline-block;
   text-align: left;
-  vertical-align: top;
-  margin-right: 1.5em;
-  margin-left: 1.5em;
+  margin-top: 1rem;
+  padding-top: 1.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-bottom: 3em;
 }
 
 h2 {
@@ -59,7 +64,7 @@ p {
   font-size: 1.125rem;
   font-style: normal;
   text-decoration: none;
-  color: #666;
+  color: #333;
   border-radius: 8px;
   border: 3px solid #333;
   background-color: #eee9de;
