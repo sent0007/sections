@@ -34,9 +34,13 @@ section {
 img {
   display: block;
   width: 100%;
+<<<<<<< HEAD
   padding-top: 1em;
 <<<<<<< HEAD
   margin-top: -.5em;
+=======
+  margin-top: auto;
+>>>>>>> parent of d0fc373... Update the image padding
   margin-bottom: auto;
 =======
 >>>>>>> parent of 9a42863... Update the main.css file
